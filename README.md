@@ -1,16 +1,21 @@
-### Hi there 👋
-
 <!--
 **ChenLiu-1996/ChenLiu-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Greetings from Chen!
+
+![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
+
+I work on machine learning in healthcare. Lately I am diving into understanding the neural network manifold.
+
+I am generally over-booked on projects, but feel free to reach out for collaboration.
+
+
+Contact information
+- [Personal Website](https://www.chenliu1996.com)
+- [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
+- [Lab Website](https://krishnaswamylab.org/members)
