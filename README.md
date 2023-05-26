@@ -14,8 +14,17 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
+## Some recent repositories
+:heavy_check_mark: [An on-the-fly evaluator for GANs](https://github.com/ChenLiu-1996/GAN-evaluator)
 
-Contact information
+:heavy_check_mark: [A simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
+
+:heavy_check_mark: [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
+
+:heavy_check_mark: [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
+
+
+## Contact information
 - [Personal Website](https://www.chenliu1996.com)
 - [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
 - [Lab Website](https://krishnaswamylab.org/members)
