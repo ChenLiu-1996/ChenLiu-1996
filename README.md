@@ -16,7 +16,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 ## Blogs
 
-:heavy_check_mark: <a href="https://github.com/ChenLiu-1996/ChenLiu-1996/blob/main/blogs/Explain_DragGAN.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
+:heavy_check_mark: <a href="https://lavender-deeann-3.tiiny.site/" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
 
 ## Some recent repositories
 :heavy_check_mark: [An on-the-fly evaluator for GANs](https://github.com/ChenLiu-1996/GAN-evaluator)
