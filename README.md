@@ -14,6 +14,9 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
+## Blogs
+:heavy_check_mark: [How DragGAN Works: A Technical Deep Dive](https://github.com/ChenLiu-1996/ChenLiu-1996/blob/main/blogs/Explain_DragGAN.pdf)
+
 ## Some recent repositories
 :heavy_check_mark: [An on-the-fly evaluator for GANs](https://github.com/ChenLiu-1996/GAN-evaluator)
 
