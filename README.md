@@ -10,7 +10,7 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
-## Blogs
+## Technical Blogs
 
 :heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
 
