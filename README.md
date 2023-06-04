@@ -12,7 +12,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 ## Blogs
 
-:heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/Explain_DragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
+:heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
 
 ## Recent repositories
 :heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
