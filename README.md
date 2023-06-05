@@ -29,6 +29,6 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 - [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
 - [Lab Website](https://krishnaswamylab.org/members)
 
-![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
