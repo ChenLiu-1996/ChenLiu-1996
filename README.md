@@ -10,18 +10,21 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
-## Technical Blogs
-
-:heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
-- [Blog Site](https://chenliu-1996.github.io/blogs/ExplainDragGAN)
-- [PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
-
 ## Recent repositories
+:heavy_check_mark: [Accepted to **TAG-ML @ ICML 2023**] [Assessing Neural Network Representations During Training
+Using Data Diffusion Spectra](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)
+
 :heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
 
 :heavy_check_mark: [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
 
 :heavy_check_mark: [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
+
+## Technical Blogs
+
+:heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">How DragGAN Works: A Technical Deep Dive</a>
+- [Blog Site](https://chenliu-1996.github.io/blogs/ExplainDragGAN)
+- [PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
 
 
 ## Contact information
