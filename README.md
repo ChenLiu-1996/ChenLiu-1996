@@ -11,12 +11,12 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
 ## Recent repositories
-:heavy_check_mark: [Accepted to **TAG-ML @ ICML 2023**] [Assessing Neural Network Representations During Training
+:heavy_check_mark: [Accepted to **TAG-ML @ ICML 2023**] [![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/DiffusionSpectralEntropy.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy/) [Assessing Neural Network Representations During Training
 Using Data Diffusion Spectra](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)
 
-:heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
+:heavy_check_mark: [![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/GAN-evaluator.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/GAN-evaluator/) [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
 
-:heavy_check_mark: [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
+:heavy_check_mark: [![Github Stars](https://img.shields.io/github/stars/ChenLiu-1996/UnsupervisedMedicalSeg.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg/) [An unsupervised medical image segmentation framework](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
 
 :heavy_check_mark: [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
 
