@@ -36,5 +36,5 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 
 ## Resume
-[embed]https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf [/embed]
+https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf
 
