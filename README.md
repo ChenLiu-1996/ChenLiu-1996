@@ -25,7 +25,6 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 - [Blog Site](https://chenliu-1996.github.io/blogs/ExplainDragGAN)
 - [PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
 
-
 ## Contact information
 - [Personal Website](https://www.chenliu1996.com)
 - [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
@@ -34,3 +33,8 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 <!-- ![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+
+## Resume
+[embed]https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf [/embed]
+
