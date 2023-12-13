@@ -22,8 +22,6 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 ## Technical Blogs
 
 :heavy_check_mark: <a href="https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf" target="_blank">A Technical Deep Dive into Drag Your GAN (DragGAN)</a>
-- [Blog Site](https://chenliu-1996.github.io/blogs/ExplainDragGAN)
-- [PDF](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
 
 ## Contact information
 - [Personal Website](https://www.chenliu1996.com)
