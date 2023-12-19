@@ -25,7 +25,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 ## Course Projects
 
-:heavy_check_mark: <a href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" target="_blank">Cell Segmentation Benchmark: Final Report (Introduction to Database Systems)</a>
+:heavy_check_mark: <a href="https://chenliu-1996.github.io/course_projects/CellSegBenchmark/main.pdf" target="_blank">Cell Segmentation Benchmark: Progress Report (Introduction to Database Systems)</a>
 
 ## Contact information
 - [Personal Website](https://www.chenliu1996.com)
