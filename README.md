@@ -11,7 +11,7 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
 ## Recent repositories
-:heavy_check_mark: [**ICML 2023 Workshop on TAG-ML**] [A novel method to compute entropy and mutual information in neural net representations](https://github.com/ChenLiu-1996/DiffusionSpectralEntropy)
+:heavy_check_mark: [**ICML 2023 Workshop on TAG-ML**] [A novel method to compute entropy and mutual information in neural net representations](https://arxiv.org/abs/2312.04823)
 
 :heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
 
