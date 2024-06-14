@@ -11,7 +11,7 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
 ## Recent repositories
-:heavy_check_mark: [**ICML 2023 Workshop**] [ImageFlowNet: forecasting multiscale trajectories of disease progression in irregularly-sampled longitudinal medical images]
+:heavy_check_mark: [ImageFlowNet: forecasting multiscale trajectories of disease progression in irregularly-sampled longitudinal medical images](https://github.com/ChenLiu-1996/ImageFlowNet)
 
 :heavy_check_mark: [**ICML 2023 Workshop**] [A novel method to compute entropy and mutual information in neural net representations](https://arxiv.org/abs/2312.04823)
 
