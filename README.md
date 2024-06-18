@@ -17,7 +17,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 :heavy_check_mark: [An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN](https://github.com/ChenLiu-1996/GAN-evaluator)
 
-:heavy_check_mark: [CUTS: A deep learning and topological framework for multi-granular unsupervised medical image segmentation](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
+:heavy_check_mark: [**MICCAI 2024**] [CUTS: A deep learning and topological framework for multi-granular unsupervised medical image segmentation](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg)
 
 :heavy_check_mark: [A guide to simulate bigger batch sizes beyond GPU capability](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
 
