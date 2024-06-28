@@ -13,11 +13,11 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 ## Recent repositories
 :heavy_check_mark: ImageFlowNet [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
 
-:heavy_check_mark: [**ICML 2023 Workshop**] A novel method to compute entropy and mutual information in neural net representations [[PDF]](https://arxiv.org/pdf/2312.04823)
+&nbsp;🎉  [**MICCAI2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359)
+
+&nbsp;🎉  [**ICMLW2023**] A novel method to compute entropy and mutual information in neural net representations [[PDF]](https://arxiv.org/pdf/2312.04823)
 
 :heavy_check_mark: An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN [[Git]](https://github.com/ChenLiu-1996/GAN-evaluator)
-
-:heavy_check_mark: [**MICCAI 2024**] CUTS: A deep learning and topological framework for multi-granular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359)
 
 :heavy_check_mark: A guide to simulate bigger batch sizes beyond GPU capability [[Git]](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize)
 
@@ -35,11 +35,11 @@ Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Dat
 - [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
 - [Lab Website](https://krishnaswamylab.org/members)
 
-<!-- ![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
-<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
-
 
 ## Resume
 https://chenliu-1996.github.io/CV/ChenLiu_resume.pdf
+
+
+<!--  ![Chen's github stats](https://github-readme-stats.vercel.app/api?username=chenliu-1996&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
