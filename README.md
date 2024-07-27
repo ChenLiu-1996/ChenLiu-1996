@@ -17,7 +17,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 &nbsp;🎉  [**MICCAI2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359)
 
-&nbsp;🎉  [**ICMLW2023**] A novel method to compute entropy and mutual information in neural net representations [[PDF]](https://arxiv.org/pdf/2312.04823)
+&nbsp;🎉  [**ICMLW2023**] A novel method to compute entropy and mutual information in neural net representations [[PDF]](https://arxiv.org/pdf/2312.04823) [[Blog]](https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf)
 
 :heavy_check_mark: An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN [[Git]](https://github.com/ChenLiu-1996/GAN-evaluator)
 
