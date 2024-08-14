@@ -13,7 +13,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 ## Recent repositories
 :heavy_check_mark: A simple but effective tool to generate your **Google Scholar Citation World Map** [[Git]](https://github.com/ChenLiu-1996/CitationMap)
 
-:heavy_check_mark: ImageFlowNet [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
+:heavy_check_mark: ImageFlowNet: Forecasting Multiscale Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
 
 &nbsp;🎉  [**MICCAI2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359)
 
