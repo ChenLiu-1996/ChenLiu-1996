@@ -15,9 +15,9 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 :heavy_check_mark: DiffKillR: Killing and Recreating Diffeomorphisms for Cell Annotation in Dense Microscopy Images [[Git]](https://github.com/ChenLiu-1996/DiffKillR) [[PDF]](https://arxiv.org/pdf/2410.03058)
 
-:heavy_check_mark: ImageFlowNet: Forecasting Multiscale Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
+:heavy_check_mark: ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
 
-&nbsp;🎉  [**MICCAI2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359) [[Poster]](https://www.chenliu1996.com/publication/2024_cuts/CUTS_MICCAI2024_poster.pdf)
+&nbsp;🎉  [**MICCAI2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/UnsupervisedMedicalSeg) [[PDF]](https://arxiv.org/pdf/2209.11359) [[Poster]](https://www.chenliu1996.com/publication/2024_cuts/CUTS_MICCAI2024_poster.pdf) [[MICCAI2024]](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_15)
 
 &nbsp;🎉  [**ICMLW2023**] A novel method to compute entropy and mutual information in neural net representations [[PDF]](https://arxiv.org/pdf/2312.04823) [[Blog]](https://chenliu-1996.github.io/blogs/Explain_DSE_DSMI/main.pdf)
 
