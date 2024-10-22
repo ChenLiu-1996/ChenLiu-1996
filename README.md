@@ -4,7 +4,7 @@
 
 # Greetings from Chen!
 
-Hi, I am Chen Liu, a PhD student in Computer Science at Yale University.
+Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer Science at Yale University.
 
 I work on machine learning in healthcare. Lately I am diving into understanding the neural network manifold.
 
@@ -35,7 +35,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems</a>
 
 ## Contact information
-- [Personal Website](https://www.chenliu1996.com)
+- [Personal Website](https://chenliu-1996.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/chenliu1996/)
 - [Lab Website](https://krishnaswamylab.org/members)
 
