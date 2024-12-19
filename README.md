@@ -11,7 +11,7 @@ I work on machine learning in healthcare. Lately I am diving into understanding 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
 ## Recent repositories
-:heavy_check_mark: A simple but effective tool to generate your **Google Scholar Citation World Map** [[Git]](https://github.com/ChenLiu-1996/CitationMap)
+:heavy_check_mark: A simple and effective tool to generate your **Google Scholar Citation World Map** [[Git]](https://github.com/ChenLiu-1996/CitationMap)
 
 &nbsp;🎉  [**ICASSP 2025**] ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794)
 
