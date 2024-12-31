@@ -2,6 +2,8 @@
 **ChenLiu-1996/ChenLiu-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenLiu-1996&show_icons=true&theme=gruvbox)
+
 # Greetings from Chen!
 
 Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer Science at Yale University.
