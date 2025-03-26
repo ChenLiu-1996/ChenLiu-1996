@@ -20,9 +20,9 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 ## Recent repositories
 :heavy_check_mark: A simple and effective tool to generate your **Google Scholar Citation World Map** [[Git]](https://github.com/ChenLiu-1996/CitationMap)
 
-&nbsp;🎉  [**ICASSP 2025**] ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794) [[Slides]](https://chenliu-1996.github.io/slides/ImageFlowNet_slides.pdf)
+&nbsp;🎉  [**ICASSP 2025 Oral**] ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [[Git]](https://github.com/ChenLiu-1996/ImageFlowNet) [[PDF]](https://arxiv.org/pdf/2406.14794) [[Slides]](https://chenliu-1996.github.io/slides/ImageFlowNet_slides.pdf)
 
-&nbsp;🎉  [**ICASSP 2025**] DiffKillR: Killing and Recreating Diffeomorphisms for Cell Annotation in Dense Microscopy Images [[Git]](https://github.com/ChenLiu-1996/DiffKillR) [[PDF]](https://arxiv.org/pdf/2410.03058) [[Slides]](https://chenliu-1996.github.io/slides/DiffKillR_slides.pdf)
+&nbsp;🎉  [**ICASSP 2025 Oral**] DiffKillR: Killing and Recreating Diffeomorphisms for Cell Annotation in Dense Microscopy Images [[Git]](https://github.com/ChenLiu-1996/DiffKillR) [[PDF]](https://arxiv.org/pdf/2410.03058) [[Slides]](https://chenliu-1996.github.io/slides/DiffKillR_slides.pdf)
 
 &nbsp;🎉  [**MICCAI 2024**] CUTS: A deep learning and topological framework for multigranular unsupervised medical image segmentation [[Git]](https://github.com/ChenLiu-1996/CUTS) [[PDF]](https://arxiv.org/pdf/2209.11359) [[Poster]](https://chenliu-1996.github.io/posters/CUTS_MICCAI2024_poster.pdf) [[MICCAI2024]](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_15)
 
