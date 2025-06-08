@@ -17,7 +17,7 @@ In the remaining years of my Ph.D., I would like to spend more time on taming ne
 
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
-## Recent repositories
+## My recent repositories (Note that this is not a list of publications!)
 :heavy_check_mark: A simple and effective tool to generate your **Google Scholar Citation World Map** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/CitationMap.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/CitationMap/)
 
 &nbsp;🎉  [**ICASSP 2025 Oral**] ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [![ArXiv](https://img.shields.io/badge/ArXiv-ImageFlowNet-firebrick)](https://arxiv.org/abs/2406.14794) [![Slides](https://img.shields.io/badge/Slides-orange)](https://chenliu-1996.github.io/slides/ImageFlowNet_slides.pdf) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/ImageFlowNet.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/ImageFlowNet/)
@@ -36,9 +36,6 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 :heavy_check_mark: A Technical Deep Dive into Drag Your GAN (DragGAN) [![PDF](https://img.shields.io/badge/PDF-silver)](https://chenliu-1996.github.io/blogs/ExplainDragGAN/main.pdf)
 
-## Course Projects
-
-:heavy_check_mark: Towards a Large-Scale Unbiased Machine Learning Benchmark for Cell Instance Segmentation: Final Report for CPSC 537 Intro to Database Systems [![PDF](https://img.shields.io/badge/PDF-silver)](https://chenliu-1996.github.io/projects/CellSegBenchmark/main.pdf)
 
 ## Contact information
 - [Personal Website](https://chenliu-1996.github.io/)
