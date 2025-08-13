@@ -2,7 +2,9 @@
 **ChenLiu-1996/ChenLiu-1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!--
 ![Chen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChenLiu-1996&show_icons=true&theme=gruvbox)
+-->
 [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Greetings from Chen!
