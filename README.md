@@ -15,8 +15,6 @@ I primarily work on manifold learning, a subfield of deep learning that studies 
                                     
 Most of my research involve direct applications to healthcare or medicine, via analysis of medical images and omics (genomics, transcriptomics, proteomics) data. I also work on fusing multiple modalities, modeling time-varying dynamics, and learning from limited or no labels.
 
-In the remaining years of my Ph.D., I would like to spend more time on taming neural networks, including generative models, to better comply with constraints such as physical laws, with applications in modeling the natural progression of diseases in time-varying medical images.
-
 I am generally over-booked on projects, but feel free to reach out for collaboration.
 
 ## My recent repositories (Note that this is not a list of publications!)
