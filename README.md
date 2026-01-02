@@ -24,7 +24,7 @@ I am generally over-booked on projects, but feel free to reach out for collabora
 
 :heavy_check_mark: The **first tool** to quantify your **Github repo star percentile** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/GitStarPercentile.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/GitStarPercentile/)
 
-&nbsp;🎉  [**nature machine intelligence**] ImmunoStruct enables multimodal deep learning for immunogenicity prediction
+&nbsp;🎉  [**Nature Machine Intelligence**] ImmunoStruct enables multimodal deep learning for immunogenicity prediction
  [![nature](https://img.shields.io/badge/nature-blue)](https://www.nature.com/articles/s42256-025-01163-y) [![Github](https://img.shields.io/github/stars/KrishnaswamyLab/ImmunoStruct.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/ImageFlowNet/)
 
 &nbsp;🎉  [**ICASSP 2025 Oral**] ImageFlowNet: Forecasting Multiscale Image-Level Trajectories of Disease Progression with Irregularly-Sampled Longitudinal Medical Images [![ArXiv](https://img.shields.io/badge/ArXiv-ImageFlowNet-firebrick)](https://arxiv.org/abs/2406.14794) [![Poster](https://img.shields.io/badge/Poster-mint)](https://chenliu-1996.github.io/posters/ImageFlowNet_poster.pdf)  [![Slides](https://img.shields.io/badge/Slides-orange)](https://chenliu-1996.github.io/slides/ImageFlowNet_slides.pdf) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/ImageFlowNet.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/ImageFlowNet/)
