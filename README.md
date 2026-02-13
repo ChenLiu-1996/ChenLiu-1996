@@ -11,13 +11,14 @@
 
 Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer Science at Yale University.
 
-I primarily work on manifold learning, a subfield of deep learning that studies how to best organize the representations in the latent space of neural networks.
-                                    
-Most of my research involve direct applications to healthcare or medicine, via analysis of medical images and omics (genomics, transcriptomics, proteomics) data. I also work on fusing multiple modalities, modeling time-varying dynamics, and learning from limited or no labels.
+Since 2022, I have been working broadly on manifold learning, studying the geometry of learned spaces. This area has gained renewed attention in recent advances such as DeepSeek's manifold-constrained hyper-connections and Kaiming's manifold-inspired generative models (Just Image Transformer, Drifting Model).
 
-I am generally over-booked on projects, but feel free to reach out for collaboration.
+Specifically, I design methods to understand and control how neural networks organize information in their internal representations, covering both general AI and AI for bioscience. The former includes manifold-constrained LLM pre-training (Dispersion) and generative modeling (GAGA, RNAGenScape). The latter includes disease progression modeling (ImageFlowNet), image segmentation (CUTS, DiffKillR), and protein function prediction (ImmunoStruct).
+
 
 ## My recent repositories (Note that this is not a list of publications!)
+:heavy_check_mark: How I make high-quality figures for publications in top AI conferences and journals [![Github](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/figures4papers/)
+
 :heavy_check_mark: The **first free tool** to generate your **Google Scholar Citation World Map** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/CitationMap.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/CitationMap/)
 
 :heavy_check_mark: The **first tool** to quantify your **Github repo star percentile** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/GitStarPercentile.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/GitStarPercentile/)
