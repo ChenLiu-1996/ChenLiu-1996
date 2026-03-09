@@ -36,7 +36,6 @@ Specifically, I design methods to understand and control how neural networks org
 
 :heavy_check_mark: An on-the-fly evaluator for GANs, with a simple working example of DCGAN on SVHN [![Github](https://img.shields.io/github/stars/ChenLiu-1996/GAN-evaluator.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/GAN-evaluator/)
 
-:heavy_check_mark: A guide to simulate bigger batch sizes beyond GPU capability [![Github](https://img.shields.io/github/stars/ChenLiu-1996/SimulateBiggerBatchSize.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/SimulateBiggerBatchSize/)
 
 ## Technical Blogs
 
