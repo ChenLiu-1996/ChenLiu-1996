@@ -13,7 +13,7 @@ Since 2022, I have been working broadly on manifold learning, studying the geome
 Specifically, I design methods to understand and control how neural networks organize information in their internal representations, covering both general AI and AI for bioscience. The former includes manifold-constrained LLM pre-training ([Dispersion](https://arxiv.org/pdf/2602.00217)) and generative modeling ([GAGA](https://arxiv.org/pdf/2410.12779), [RNAGenScape](https://arxiv.org/pdf/2510.24736)). The latter includes disease progression modeling ([ImageFlowNet](https://arxiv.org/pdf/2406.14794)), image segmentation ([CUTS](https://arxiv.org/pdf/2209.11359), [DiffKillR](https://arxiv.org/pdf/2410.03058)), and protein function prediction ([ImmunoStruct](https://www.nature.com/articles/s42256-025-01163-y)).
 
 
-## My recent repositories (Note that this is not a list of publications!)
+## My recent repositories (NOT a list of publications)
 :heavy_check_mark: How I make high-quality figures for publications in top AI conferences and journals [![Github](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/figures4papers/)
 
 :heavy_check_mark: The **first free tool** to generate your **Google Scholar Citation World Map** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/CitationMap.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/CitationMap/)
