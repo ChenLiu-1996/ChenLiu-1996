@@ -19,7 +19,7 @@ Specifically, I design methods to understand and control how neural networks org
 
 :heavy_check_mark: The **first tool** to quantify your **Github repo star percentile** [![Github](https://img.shields.io/github/stars/ChenLiu-1996/GitStarPercentile.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/GitStarPercentile/)
 
-&nbsp;🎉  [**ICML 2026**] Dispersion loss counteracts embedding condensation and improves generalization in small language models [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/ImageFlowNet.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
+&nbsp;🎉  [**ICML 2026**] Dispersion loss counteracts embedding condensation and improves generalization in small language models [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/LM-Dispersion.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
 
 &nbsp;🎉  [**Nature Machine Intelligence**] ImmunoStruct enables multimodal deep learning for immunogenicity prediction
  [![nature](https://img.shields.io/badge/nature-machine_intelligence-gold)](https://www.nature.com/articles/s42256-025-01163-y) [![Github](https://img.shields.io/github/stars/KrishnaswamyLab/ImmunoStruct.svg?style=social&label=Stars)](https://github.com/KrishnaswamyLab/ImmunoStruct/)
