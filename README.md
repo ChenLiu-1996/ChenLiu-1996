@@ -1,4 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenLiu-1996&show_icons=true)
+<!---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChenLiu-1996&show_icons=true) 
+--->
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=chenliu-1996&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
