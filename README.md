@@ -9,10 +9,13 @@
 
 Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer Science at Yale University.
 
-Since 2022, I have been working broadly on manifold learning, studying the geometry of learned spaces. This area has gained renewed attention in recent advances such as DeepSeek's [manifold-constrained hyper-connections](https://arxiv.org/pdf/2512.24880) and Kaiming's manifold-inspired generative models ([Just Image Transformer](https://arxiv.org/pdf/2511.13720), [Drifting Model](https://arxiv.org/pdf/2602.04770)).
+My research focuses on the geometry of learned latent representations, investigating how neural networks organize information internally, when it breaks down, and how to fix it.
 
-Specifically, I design methods to understand and control how neural networks organize information in their internal representations, covering both general AI and AI for bioscience. The former includes manifold-constrained LLM pre-training ([Dispersion](https://arxiv.org/pdf/2602.00217)) and generative modeling ([GAGA](https://arxiv.org/pdf/2410.12779), [RNAGenScape](https://arxiv.org/pdf/2510.24736)). The latter includes disease progression modeling ([ImageFlowNet](https://arxiv.org/pdf/2406.14794)), image segmentation ([CUTS](https://arxiv.org/pdf/2209.11359), [DiffKillR](https://arxiv.org/pdf/2410.03058)), and protein function prediction ([ImmunoStruct](https://www.nature.com/articles/s42256-025-01163-y)).
+For LLMs, I [identified and systematically characterized embedding condensation](https://chenliu-1996.github.io/projects/LM-Dispersion/), a geometric phenomenon where token embeddings collapse into a narrow cone, and showed how to mitigate it to improve generalization in pre- and mid-training ([ICML 2026](https://icml.cc/virtual/2026/poster/61492)).
 
+For MLLMs, I co-developed [VIGIL, an RL post-training framework that punishes visual laziness](https://xixiaouab.github.io/VIGIL/) by penalizing over-reliance on language priors when visual evidence is present (ECCV 2026).
+
+I apply the same perspective to on-manifold generative modeling ([RNAGenScape](https://arxiv.org/pdf/2510.24736)), multimodal representation learning ([ImmunoStruct](https://www.nature.com/articles/s42256-025-01163-y) @ Nature Machine Intelligence), unsupervised image segmentation ([CUTS](https://arxiv.org/pdf/2209.11359) @ MICCAI 2024 and [DiffKillR](https://arxiv.org/pdf/2410.03058) @ ICASSP 2025 Oral) and latent dynamics modeling ([ImageFlowNet](https://arxiv.org/pdf/2406.14794) @ ICASSP 2025 Oral).
 
 ## My recent repositories (NOT a list of publications)
 :heavy_check_mark: How I make high-quality figures for publications in top AI conferences and journals [![Github](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/figures4papers/)
