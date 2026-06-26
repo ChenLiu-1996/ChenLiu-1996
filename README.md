@@ -11,7 +11,7 @@ Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer 
 
 My research focuses on the geometry of learned latent representations, investigating how neural networks organize information internally, when it breaks down, and how to fix it.
 
-For LLMs, I [identified and systematically characterized embedding condensation](https://chenliu-1996.github.io/projects/LM-Dispersion/), a geometric phenomenon where token embeddings collapse into a narrow cone, and showed how to mitigate it to improve generalization in pre- and mid-training ([ICML 2026](https://icml.cc/virtual/2026/poster/61492)).
+For LLMs, I [identified and systematically characterized embedding condensation](https://chenliu-1996.github.io/projects/LM-Dispersion/), a geometric phenomenon where token embeddings collapse into a narrow cone, and showed how to mitigate it to improve generalization in pre- and mid-training (ICML 2026).
 
 For MLLMs, I co-developed [VIGIL, an RL post-training framework that punishes visual laziness](https://xixiaouab.github.io/VIGIL/) by penalizing over-reliance on language priors when visual evidence is present (ECCV 2026).
 
