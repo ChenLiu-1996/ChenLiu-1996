@@ -7,7 +7,7 @@
 
 # Greetings from Chen!
 
-Hi, I am [Chen Liu](https://chenliu-1996.github.io/), a PhD student in Computer Science at Yale University.
+Hi, I am [Chen Liu](https://chenliu-1996.github.io/) (刘晨), a PhD student in Computer Science at Yale University.
 
 My research focuses on the geometry of learned latent representations, investigating how neural networks organize information internally, when it breaks down, and how to fix it.
 
