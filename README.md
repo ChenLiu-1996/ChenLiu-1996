@@ -26,6 +26,8 @@ The same geometric viewpoint also motivates my work on manifold-constrained gene
 
 &nbsp;🎉  [**ICML 2026**] Dispersion loss counteracts embedding condensation and improves generalization in small language models [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217) [![Project_Page](https://img.shields.io/badge/Project_Page-B9DEF1)](https://chenliu-1996.github.io/projects/LM-Dispersion/) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/LM-Dispersion.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
 
+&nbsp;🎉  [**NeurIPS 2026**] RNAGenScape: property-guided, optimized generation of mRNA sequences with manifold Langevin dynamics [![arXiv](https://img.shields.io/badge/arXiv-RNAGenScape-firebrick)](https://arxiv.org/abs/2510.24736) [![Github](https://img.shields.io/github/stars/ChenLiu-1996/RNAGenScape.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/RNAGenScape)
+
 &nbsp;🎉  [**Nature Machine Intelligence**] ImmunoStruct enables multimodal deep learning for immunogenicity prediction
  [![nature](https://img.shields.io/badge/nature-machine_intelligence-gold)](https://www.nature.com/articles/s42256-025-01163-y) [![Github](https://img.shields.io/github/stars/KrishnaswamyLab/ImmunoStruct.svg?style=social&label=Stars)](https://github.com/KrishnaswamyLab/ImmunoStruct/)
 
