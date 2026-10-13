@@ -15,7 +15,7 @@ For LLMs, I [identified and systematically characterized embedding condensation]
 
 For MLLMs, I co-developed [VIGIL, an preference-optimization post-training framework that mitigates visual laziness](https://xixiaouab.github.io/VIGIL/) by reducing over-reliance on language priors when visual evidence is available (ECCV 2026).
 
-The same geometric viewpoint also motivates my work on manifold-constrained generative modeling ([RNAGenScape](https://arxiv.org/pdf/2510.24736)), multimodal representation learning ([ImmunoStruct](https://www.nature.com/articles/s42256-025-01163-y) @ Nature Machine Intelligence), unsupervised image segmentation ([CUTS](https://arxiv.org/pdf/2209.11359) @ MICCAI 2024, [DiffKillR](https://arxiv.org/pdf/2410.03058) @ ICASSP 2025 Oral) and latent dynamics modeling ([ImageFlowNet](https://arxiv.org/pdf/2406.14794) @ ICASSP 2025 Oral).
+The same geometric viewpoint also motivates my work on manifold-constrained generative modeling ([RNAGenScape](https://arxiv.org/pdf/2510.24736) @ NeurIPS 2026), multimodal representation learning ([ImmunoStruct](https://www.nature.com/articles/s42256-025-01163-y) @ Nature Machine Intelligence), unsupervised image segmentation ([CUTS](https://arxiv.org/pdf/2209.11359) @ MICCAI 2024, [DiffKillR](https://arxiv.org/pdf/2410.03058) @ ICASSP 2025 Oral) and latent dynamics modeling ([ImageFlowNet](https://arxiv.org/pdf/2406.14794) @ ICASSP 2025 Oral).
 
 ## My recent repositories (NOT a list of publications)
 :heavy_check_mark: How I make high-quality figures for publications in top AI conferences and journals [![Github](https://img.shields.io/github/stars/ChenLiu-1996/figures4papers.svg?style=social&label=Stars)](https://github.com/ChenLiu-1996/figures4papers/)
